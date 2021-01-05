@@ -12,7 +12,7 @@ Getting funded on Kickstarter requires meeting or exceeding the project's initia
  * Pivot charts (stacked column and line)
 
 ## Report
-Please see the MS Word Doc in the Repo () for detailed answers to the following questions.
+Please see the MS Word Doc in the Repo (HOFFMAN-Excel-challenge-questions.docx) for detailed answers to the following questions.
 
 Discussion
 1. Given the provided data, what are three conclusions we can draw about Kickstarter campaigns? 
